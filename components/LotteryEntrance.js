@@ -122,3 +122,4 @@ export default function LotteryEntrance() {
 }
 
 //0xB20765a111A03410A4a8DF50cd8293410666a37a
+// LOCAL -> 0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9 || 31337
